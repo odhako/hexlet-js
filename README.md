@@ -1,2 +1,1 @@
-# hexlet-js
-JavaScript learning repo
+Мой первый проект на Хекслете
