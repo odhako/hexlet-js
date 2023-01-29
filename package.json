@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Test JS package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odhako/hexlet-js.git"
+  },
+  "author": "odhako <odhako@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odhako/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/odhako/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
